@@ -2,8 +2,13 @@ more love
 我实在编辑器修改
 我在win上加第三行
 我在web上添加第四行
+<<<<<<< HEAD
 在版本1基础上进行开发
 修复了一个bug
 1
 2
 3
+=======
+
+12312313
+>>>>>>> refs/remotes/origin/master
